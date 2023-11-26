@@ -23,16 +23,15 @@
 
             <div class="container mt-3">
                 <div class="mt-4 p-5 bg-primary text-white rounded">
-                  <h1>YAMUNA OVERSEAS (PVT) LTD</h1>
-                  <p>International recruitment Agency</p>
+                  <h1>WNM CMS</h1>
+                  <p>This is a Laravel base CMS</p>
                   <br>
-                  <div class="text-center">
-                      <h5>COMING SOON</h5>
-                      <p>We are under construction.</p>
-                      <hr>
-                      <P>283/A Negombo rd, Welisara, Ragama, Srilanka.</P>
-                      <p>Hotline: +94773718224,  +94112227160</p>
-                      <p>S.L.B.F.E License 903. ESTD:1993</P>
+                  <div class="text-left">
+                      <h4>Frontend</h4>
+                      <p>Frontend has been developed using <a href="https://laravel.com/docs/10.x/blade">Blade</a>. Frontend authentication flow using <a href="https://laravel.com/docs/10.x/blade">Blade</a> and <a href="https://tailwindcss.com/">Tailwind</a> so that you can simply start building your next big idea. Use <a href="https://alpinejs.dev/">Alpine.js</a> for composing behavior directly in your markup.</p>
+                      <br>
+                      <h4>Bundling Assets</h4>
+                      <p>By default, Laravel utilizes <a href="https://vitejs.dev/">Vite</a> to bundle your assets.</p>
                   </div>
                 </div>
               </div>
